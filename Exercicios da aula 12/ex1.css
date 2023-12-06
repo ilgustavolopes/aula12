@@ -1,0 +1,25 @@
+body{
+    background-color:gray;
+}
+/*titulo*/
+.titulo{
+    float:left;
+    margin-left:330px;
+    border: outset rgb(136, 149, 161);
+    padding:15px;
+    width:500px;
+    text-align:center;
+    color:white;
+}
+/*texto*/
+.texto{
+    position:relative;
+    float:left;
+    margin-top:30px;
+    margin-left:330px;
+    border: dotted 2px white;
+    padding:15px;
+    width:500px;
+    text-align:center;
+    color:white;
+}

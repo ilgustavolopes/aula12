@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+   background-image: url(imagens/cachorro.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+/*titlo*/
+.titulo{
+     border: solid  5px black;
+     background:white;
+     padding:20px;
+     color:black;
+     position:absolute;
+     margin-left:550px;
+     margin-top:250px;
+}

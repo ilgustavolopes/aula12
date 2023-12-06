@@ -1,0 +1,38 @@
+
+/*caixa1*/
+.caixa1{
+    border: solid 5px;
+    background:yellow;
+    color:black;
+    width:50px;
+    position:absolute;
+}
+/*caixa2*/
+.caixa2{
+    border: solid 5px;
+    background:blue;
+    color:black;
+    width:50px;
+    position: relative;
+    float:right;
+}
+/*caixa3*/
+.caixa3{
+    border: solid 5px;
+    background:red;
+    color:black;
+    width:50px;
+    position:absolute;
+    margin-top:528px;
+}
+/*caixa4*/
+.caixa4{
+    border: solid 5px;
+    background:green;
+    color:black;
+    width:50px;
+    position:relative;
+    float:right;
+    margin-right:-58px;
+    margin-top:528px;
+}
